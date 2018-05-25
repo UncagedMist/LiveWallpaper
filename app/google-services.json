@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "763650920038",
+    "firebase_url": "https://projectandroid-d83e5.firebaseio.com",
+    "project_id": "projectandroid-d83e5",
+    "storage_bucket": "projectandroid-d83e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763650920038:android:844d156dba3580af",
+        "android_client_info": {
+          "package_name": "com.techbytecare.kk.livewallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763650920038-suggsuj7ru8kngrklrs4c6600spt0n61.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techbytecare.kk.livewallpaper",
+            "certificate_hash": "e7e2c01698da53d740db3ec341794e9acf386ed1"
+          }
+        },
+        {
+          "client_id": "763650920038-j1gjju187mdlkp1q64c74crmd98fhlh3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techbytecare.kk.livewallpaper",
+            "certificate_hash": "a8fc78538767ecde4d10c454a5c2b47c72f8acfc"
+          }
+        },
+        {
+          "client_id": "763650920038-ro22jh393qeise4mb5s225du30hq8suc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7dCEW_P--6Wxz0Qbhji79-jwQwbtnFRk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763650920038-ro22jh393qeise4mb5s225du30hq8suc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763650920038:android:0fd173c88b271684",
+        "android_client_info": {
+          "package_name": "com.techbytecare.kk.onlinequiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763650920038-jumnh1378eecve03rbtmjiu5e6nc4c0b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techbytecare.kk.onlinequiz",
+            "certificate_hash": "a8fc78538767ecde4d10c454a5c2b47c72f8acfc"
+          }
+        },
+        {
+          "client_id": "763650920038-ro22jh393qeise4mb5s225du30hq8suc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7dCEW_P--6Wxz0Qbhji79-jwQwbtnFRk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763650920038-ro22jh393qeise4mb5s225du30hq8suc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
