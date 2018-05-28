@@ -52,6 +52,15 @@
 
         </LinearLayout>
 
+        <Button
+            android:layout_marginTop="8dp"
+            android:id="@+id/btn_submit"
+            android:text="Submit"
+            android:enabled="false"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
     </LinearLayout>
 
 </RelativeLayout>

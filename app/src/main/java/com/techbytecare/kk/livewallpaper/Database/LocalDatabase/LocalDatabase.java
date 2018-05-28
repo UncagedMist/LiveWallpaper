@@ -12,7 +12,7 @@ import static com.techbytecare.kk.livewallpaper.Database.LocalDatabase.LocalData
 @Database(entities = Recents.class,version = DATABASE_VERSION)
 public abstract class LocalDatabase extends RoomDatabase {
 
-    public static final int DATABASE_VERSION = 2;
+    public static final int DATABASE_VERSION = 3;
     public static final String DATABASE_NAME = "TBC_LIVE_WALLPAPER";
 
     public abstract RecentDAO recentDAO();
