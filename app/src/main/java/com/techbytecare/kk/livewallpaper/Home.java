@@ -32,8 +32,7 @@ import com.techbytecare.kk.livewallpaper.Common.Common;
 
 import static com.techbytecare.kk.livewallpaper.Common.Common.PERMISSION_REQUEST_CODE;
 
-public class Home extends AppCompatActivity
-        implements NavigationView.OnNavigationItemSelectedListener {
+public class Home extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
 
     ViewPager viewPager;
     TabLayout tabLayout;
@@ -200,7 +199,7 @@ public class Home extends AppCompatActivity
         if (id == R.id.nav_uploads) {
         }
 
-        DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
+        DrawerLayout drawer = findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
         return true;
     }

@@ -21,7 +21,7 @@ public class Common {
     public static int SIGN_IN_REQUEST_CODE = 1001;
     public static int PICK_IMAGE_REQUEST = 1002;
 
-    String url = "https://westcentralus.api.cognitive.microsoft.com/vision/v1.0/analyze?visualFeatures=Adult&language=en";
+    //String url = "https://westcentralus.api.cognitive.microsoft.com/vision/v1.0/analyze?visualFeatures=Adult&language=en";
 
     public static String BASE_URL = "https://westcentralus.api.cognitive.microsoft.com/vision/v1.0/";
 
